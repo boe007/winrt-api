@@ -18,7 +18,7 @@ Gets or sets the contents of the pane of a [SplitView](splitview.md).
   singleObject
   <SplitView.Pane>
     singleObject
-  </SplitView.Pane
+  </SplitView.Pane>
 </SplitView>
 
 ```
